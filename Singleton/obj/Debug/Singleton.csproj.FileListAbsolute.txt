@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\PatronesDiseno\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Daniel\Desktop\PatronesDiseno\Singleton\bin\Debug\Singleton.exe
+C:\Users\Daniel\Desktop\PatronesDiseno\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Daniel\Desktop\PatronesDiseno\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PatronesDiseno\Singleton\obj\Debug\Singleton.exe
+C:\Users\Daniel\Desktop\PatronesDiseno\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Daniel\Documents\UTCV\SEPT-DIC 17\MATERIAL\ITI\PatronesDiseño\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Daniel\Documents\UTCV\SEPT-DIC 17\MATERIAL\ITI\PatronesDiseño\Singleton\obj\Debug\Singleton.exe
+C:\Users\Daniel\Documents\UTCV\SEPT-DIC 17\MATERIAL\ITI\PatronesDiseño\Singleton\obj\Debug\Singleton.pdb
